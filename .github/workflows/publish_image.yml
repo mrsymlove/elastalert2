@@ -86,3 +86,4 @@ jobs:
             docker tag $IMAGE_NAME $IMAGE_ID:2
             docker push $IMAGE_ID:2
           fi
+          
